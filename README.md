@@ -1,7 +1,7 @@
 # Varun Mulchandani
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 👋 **Hello!** I’m Varun (@im-varun), an undergraduate Computer Science student specializing in **software engineering**, **full stack development**, and **distributed systems**. I have a passion for building developer tools and contributing to open-source projects.
@@ -13,7 +13,7 @@
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
-<img src="https://img.shields.io/badge/University%20of%20Manitoba-4B0082?style=for-the-badge&logo=university-of-manitoba&logoColor=FFD700" alt="UManitoba Badge" />  
+<a href="https://umanitoba.ca/"><img src="https://img.shields.io/badge/University%20of%20Manitoba-4B0082?style=for-the-badge&logo=university-of-manitoba&logoColor=FFD700" alt="UManitoba Badge" /></a>  
 📍 *Winnipeg, Manitoba, Canada*  
 🗓 *Jan 2023 – Dec 2026*  
 
@@ -22,9 +22,9 @@
 ## 📜 Certifications
 
 - **AWS Certified Cloud Practitioner (Issued: Sep 2025)**  
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Cloud Practitioner" />
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0f3f8a6df3174efabfe3f0744288f4d2"><img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Cloud Practitioner" /></a>
 - **The Web Developer Bootcamp 2025 (Completed: Sep 2025)**  
-  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=FFFFFF" alt="Udemy Certificate" />
+  <a href="https://www.udemy.com/certificate/UC-0f57eae8-d2b6-4f9a-880b-31d96a3cd866/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=FFFFFF" alt="Udemy Certificate" /></a>
 - **The Ultimate DevOps Bootcamp (In Progress, Expected Jan 2026)**  
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=FFFFFF" alt="Udemy Certificate" />
 
