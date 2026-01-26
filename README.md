@@ -52,6 +52,10 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,kubernetes,postman,redis,aws" />
 </div>
 
+### ⚙️ Software Engineering Concepts
+
+**RESTful APIs** 🔗 | **Software Development Life Cycle** 🔄 | **Agile Development** 🏃‍♂️ | **Version Control** 🌱 | **CI/CD** 🚀 | **Testing** 🧪
+
 ---
 
 ## 🛠️ Projects
