@@ -34,7 +34,7 @@
 
 ### 💻 Programming Languages
 <div>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,go,java,c,cpp,csharp" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,go,java,c,cpp,cs" />
 </div>
 
 ### 🌐 Web Development
