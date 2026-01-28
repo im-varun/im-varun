@@ -49,7 +49,7 @@
 
 ### 🛠️ Developer Tools & Platforms
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,kubernetes,postman,redis,aws" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,kubernetes,jenkins,postman,redis,aws" />
 </div>
 
 ### ⚙️ Software Engineering Concepts
