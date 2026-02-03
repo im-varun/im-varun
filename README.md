@@ -25,7 +25,7 @@
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/0f3f8a6df3174efabfe3f0744288f4d2"><img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Cloud Practitioner" /></a>
 - **The Web Developer Bootcamp 2025 (Completed: Sep 2025)**  
   <a href="https://www.udemy.com/certificate/UC-0f57eae8-d2b6-4f9a-880b-31d96a3cd866/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=FFFFFF" alt="Udemy Certificate" /></a>
-- **The Ultimate DevOps Bootcamp (In Progress, Expected Jan 2026)**  
+- **The Ultimate DevOps Bootcamp (In Progress, Expected Feb 2026)**  
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=FFFFFF" alt="Udemy Certificate" />
 
 ---
