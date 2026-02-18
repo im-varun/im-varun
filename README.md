@@ -49,7 +49,7 @@
 
 ### 🛠️ Developer Tools & Platforms
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,kubernetes,jenkins,postman,redis,aws" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,kubernetes,jenkins,postman,redis,firebase,aws" />
 </div>
 
 ### ⚙️ Software Engineering Concepts
@@ -73,10 +73,16 @@
     <td align="left"><a href="https://sareq.dev/">Website</a></td>
   </tr>
   <tr>
-    <td align="left">PieQ</td>
-    <td align="left">PieQ is a distributed message queue system that coordinates clients, a central server, and multiple workers using TCP/UDP socket communication.</td>
-    <td align="left">Python</td>
-    <td align="left"><a href="https://github.com/im-varun/pieq">Repository</a></td>
+    <td align="left">Dev Orbit</td>
+    <td align="left">Dev Orbit is a minimalist, real-time command center for solo developers to synchronize projects and dev-tasks across the cosmos.</td>
+    <td align="left">Python, FastAPI, Vue.js, Firebase</td>
+    <td align="left"><a href="https://github.com/im-varun/dev-orbit">Repository</a></td>
+  </tr>
+  <tr>
+    <td align="left">Ice Cube</td>
+    <td align="left">Ice Cube is a terminal-based DBMS for NHL game data.</td>
+    <td align="left">Python, Textual (TUI), SQL (Microsoft SQL Server)</td>
+    <td align="left"><a href="https://github.com/im-varun/ice-cube">Repository</a></td>
   </tr>
   <tr>
     <td align="left">Message Hub</td>
@@ -85,10 +91,10 @@
     <td align="left"><a href="https://github.com/im-varun/message-hub">Repository</a></td>
   </tr>
   <tr>
-    <td align="left">Ice Cube</td>
-    <td align="left">Ice Cube is a terminal-based DBMS for NHL game data.</td>
-    <td align="left">Python, Textual (TUI), SQL (Microsoft SQL Server)</td>
-    <td align="left"><a href="https://github.com/im-varun/ice-cube">Repository</a></td>
+    <td align="left">PieQ</td>
+    <td align="left">PieQ is a distributed message queue system that coordinates clients, a central server, and multiple workers using TCP/UDP socket communication.</td>
+    <td align="left">Python</td>
+    <td align="left"><a href="https://github.com/im-varun/pieq">Repository</a></td>
   </tr>
 </table>
 
