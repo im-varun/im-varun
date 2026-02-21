@@ -49,7 +49,7 @@
 
 ### 🛠️ Developer Tools & Platforms
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,kubernetes,jenkins,postman,redis,firebase,aws" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,kubernetes,postman,redis,firebase,aws" />
 </div>
 
 ### ⚙️ Software Engineering Concepts
@@ -89,6 +89,12 @@
     <td align="left">Message Hub is a multi-threaded web server and single-page application hosting a real-time message board.</td>
     <td align="left">HTML5, CSS3, JavaScript, Python</td>
     <td align="left"><a href="https://github.com/im-varun/message-hub">Repository</a></td>
+  </tr>
+  <tr>
+    <td align="left">Recipe Mine</td>
+    <td align="left">Recipe Mine is a personal digital cookbook designed to help people collect, protect, and organize their favorite recipes in one safe and private place.</td>
+    <td align="left">Java, SQLite, JUnit, Gradle, Android Studio</td>
+    <td align="left">To be added soon!</td>
   </tr>
   <tr>
     <td align="left">PieQ</td>
