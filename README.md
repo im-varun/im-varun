@@ -73,8 +73,8 @@
     <td align="left"><a href="https://sareq.dev/">Website</a></td>
   </tr>
   <tr>
-    <td align="left">Dev Orbit (in progress)</td>
-    <td align="left">Dev Orbit is a minimalist, real-time command center for solo developers to synchronize projects and dev-tasks across the cosmos.</td>
+    <td align="left">Dev Orbit</td>
+    <td align="left">Dev Orbit is a minimalist, real-time command center for solo developers to synchronize projects and tasks across the cosmos</td>
     <td align="left">Python, FastAPI, Vue.js, Firebase</td>
     <td align="left"><a href="https://github.com/im-varun/dev-orbit">Repository</a></td>
   </tr>
