@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
-👋 **Hello!** I’m Varun (@im-varun), an undergraduate Computer Science student specializing in **software engineering**, **full stack development**, and **distributed systems**. I have a passion for building developer tools and contributing to open-source projects.
+👋 **Hello!** I’m Varun (@im-varun), an undergraduate computer science student specializing in **software engineering**, **full stack development**, and **distributed systems**. I have a passion for building developer tools and contributing to open-source projects.
 
 🚀 I am the creator (author) and maintainer of [**SAReq**](https://sareq.dev/)!
 
