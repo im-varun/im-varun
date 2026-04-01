@@ -45,7 +45,7 @@
   <tr>
     <td align="left">Recipe Mine</td>
     <td align="left">Recipe Mine is a personal digital cookbook designed to help people collect, protect, and organize their favorite recipes in one safe and private place.</td>
-    <td align="left">Java, SQLite, JUnit, Gradle, Android Studio</td>
+    <td align="left">Java, SQLite, JUnit, Mockito, Espresso</td>
     <td align="left">To be added soon!</td>
   </tr>
   <tr>
