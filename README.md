@@ -4,13 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
-👋 **Hello!** I’m Varun (@im-varun), an undergraduate computer science student specializing in **software engineering**, **full stack development**, and **distributed systems**. I have a passion for building tools and contributing to open-source projects.
+👋 **Hello!** I’m Varun (@im-varun), an undergraduate computer science student at the University of Manitoba, specializing in **software development**, including both **web development** and **application development**.
 
 🚀 I am the creator (author) and maintainer of [**SAReq**](https://sareq.dev/)!
 
 ---
 
 ## 🛠️ Projects
+
+The following table highlights some of my key projects, showcasing my skills and experience in software development.
+
 <table align="center">
   <tr>
     <th align="left">Project</th>
@@ -20,7 +23,7 @@
   </tr>
   <tr>
     <td align="left">SAReq (actively maintained)</td>
-    <td align="left">SAReq, short for "Send A Request", is a command-line HTTP client to help developers and testers send HTTP requests and analyze responses directly from the terminal.</td>
+    <td align="left">SAReq, short for Send A Request, is a command-line HTTP client to help developers and testers send HTTP requests and analyze responses directly from the terminal.</td>
     <td align="left">Go, Cobra, GoReleaser, Docusaurus</td>
     <td align="left"><a href="https://sareq.dev/">Website</a></td>
   </tr>
@@ -29,6 +32,12 @@
     <td align="left">Dev Orbit is a minimalist, real-time command center for solo developers to synchronize projects and tasks across the cosmos.</td>
     <td align="left">Python, FastAPI, Vue.js, Firebase</td>
     <td align="left"><a href="https://github.com/im-varun/dev-orbit">Repository</a></td>
+  </tr>
+  <tr>
+    <td align="left">Recipe Mine</td>
+    <td align="left">Recipe Mine is a personal digital cookbook designed to help people collect, protect, and organize their favorite recipes in one safe and private place.</td>
+    <td align="left">Java, SQLite, JUnit, Mockito, Espresso</td>
+    <td align="left"><a href="https://github.com/im-varun/recipe-mine">Repository</a></td>
   </tr>
   <tr>
     <td align="left">Ice Cube</td>
@@ -42,19 +51,9 @@
     <td align="left">HTML5, CSS3, JavaScript, Python</td>
     <td align="left"><a href="https://github.com/im-varun/message-hub">Repository</a></td>
   </tr>
-  <tr>
-    <td align="left">Recipe Mine</td>
-    <td align="left">Recipe Mine is a personal digital cookbook designed to help people collect, protect, and organize their favorite recipes in one safe and private place.</td>
-    <td align="left">Java, SQLite, JUnit, Mockito, Espresso</td>
-    <td align="left"><a href="https://github.com/im-varun/recipe-mine">Repository</a></td>
-  </tr>
-  <tr>
-    <td align="left">PieQ</td>
-    <td align="left">PieQ is a distributed message queue system that coordinates clients, a central server, and multiple workers using TCP/UDP socket communication.</td>
-    <td align="left">Python</td>
-    <td align="left"><a href="https://github.com/im-varun/pieq">Repository</a></td>
-  </tr>
 </table>
+
+My other projects can be found [here](https://github.com/im-varun?tab=repositories).
 
 ---
 
